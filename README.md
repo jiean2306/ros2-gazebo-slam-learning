@@ -6,6 +6,6 @@ running on WSL2 (Ubuntu 22.04).
 ## Progress
 - [x] WSL2 set up with a memory limit
 - [x] ROS 2 apt source added
-- [ ] ROS 2 Humble installed
+- [x] ROS 2 Humble installed
 - [ ] TurtleBot3 simulation in Gazebo
 - [ ] SLAM mapping with slam_toolbox
